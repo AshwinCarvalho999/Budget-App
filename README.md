@@ -36,8 +36,6 @@
 
 # 📖 Budget App <a name="about-project"></a>
 
-![budget-gif](https://github.com/microverseinc/curriculum-rails/blob/main/capstone/images/erd_diagram.png)
-
 **Budget App** Ruby on Rails mobile layout project for tracking expenses for a user according to categories. This project was built to satisfy the Microverse Module 5 capstone and is MIT Licensed.
 
 ## 🛠 Built With <a name="built-with"></a>
