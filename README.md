@@ -36,7 +36,7 @@
 
 # 📖 Budget App <a name="about-project"></a>
 
-**Budget App** Ruby on Rails mobile layout project for tracking expenses for a user according to categories. This project was built to satisfy the Microverse Module 5 capstone and is MIT Licensed.
+**Budget App** Ruby on Rails mobile web application where you can manage your budget: you have a list of transactions associated with a category, so that you can see how much money you spent and on what.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -83,7 +83,9 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- in progress :smile: [Live Demo Link]()
+- :smiley: [Live Demo Link]()
+
+- :movie_camera: [Video Link](https://www.loom.com/share/b79ec5c080e14390985cf1431e233ef9)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

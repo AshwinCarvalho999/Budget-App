@@ -130,10 +130,10 @@
 }
 
 .edit-group-container input {
-  width: 150px;
-  min-height: 100%;
+  width: 275px;
   text-align: center;
   outline: none;
+  padding: 0.6rem;
 }
 
 #group_icon {
@@ -145,7 +145,7 @@
 
 #group_name {
   width: 100px;
-  font-size: 1.5em;
+  font-size: 1em;
   text-align: center;
   outline: none;
 }
