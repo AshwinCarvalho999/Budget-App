@@ -39,15 +39,13 @@
 
 .back-button {
   padding: 5px;
-  background-color: lightgray;
-  color: var(--color-3);
-  border: 1px solid lightgray;
-  width: fit-content;
-  font-size: 16px;
-  min-width: 175px;
+  color: #ffffff;
+  font-size: 4rem;
   text-align: center;
   cursor: pointer;
-  margin-top: 10px;
+  position: absolute;
+  top: -18px;
+  left: 10px;
 }
 
 .green-button-div {

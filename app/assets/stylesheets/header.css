@@ -3,8 +3,9 @@ header {
   align-items: center;
   justify-content: flex-end;
   background-color: var(--color-1);
-  height: 50px;
+  height: 80px;
   padding: 10px;
+  margin-top: -10px;
   color: white;
 }
 
